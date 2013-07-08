@@ -1,0 +1,4 @@
+.DS_Store
+*.xcworkspacedata
+ClockApp/ClockApp.xcodeproj/project.xcworkspace/xcuserdata/*
+ClockApp/ClockApp.xcodeproj/xcuserdata/*
